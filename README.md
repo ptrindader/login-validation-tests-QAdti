@@ -1,4 +1,6 @@
 # Desafio Técnico - Estágio QA - dti
+> **Local do Arquivo de Testes**  
+> cypress/e2e/cenariosDeTeste.cy.js
 
 ## Objetivo
 Criar e automatizar até 3 possíveis cenários de teste de um projeto web baseando na página de login do site “Automation Practice”.
